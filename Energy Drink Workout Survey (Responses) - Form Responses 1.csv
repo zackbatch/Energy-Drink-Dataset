@@ -1,0 +1,54 @@
+Treatment (Heads) or Control (Tails)?,Timestamp,Email Address,Name,Phone Number,Age,Gender,Major in School,How would you rate your overall workout?,How would you rate your energy level compared to your usual workouts?,What kind of exercise did you do?,How many days per week do you go to the gym?,Do you normally drink energy drinks?,Exercises Categorized
+Treatment ,2/27/2024 11:36:14,kberm@bu.edu,Karolina,9783906000,20,Female,public relations,7,4,Cardio then lega,2-3,No,Cardio
+Control,2/27/2024 11:44:57,jessejw@bu.edu,Jesse,8572105066,21,Male,Biochemistry,7,3,Pull Day,4-5,Yes,Weight Lifting 
+Control,2/27/2024 12:00:46,eschoi@bu.edu,Esther Choi,8573647944,22,Female,Computer science,5,3,Legs,2-3,No,Weight Lifting 
+Treatment,2/27/2024 12:01:39,atian117@bu.edu,Alex Tian,8574151263,24,Male,Doctor of Physical Therapy,7,3,"Today I did basketball and some lower body lifts. I run, lift, and play basketball to exercise.",4-5,Yes,"Cardio, Weight Lifting "
+Control,2/27/2024 12:08:34,hz313@bu.edu,Harry Zhang,5857604134,25,Male,Music Performance,9,4,push,4-5,Yes,Weight Lifting 
+Treatment ,2/27/2024 12:27:22,kensword@bu.edu,Kenneth Wang,2057066006,19,Male,Business,4,3,Boxing,4-5,No,Other Sports
+Treatment ,2/27/2024 12:47:13,ajuarez@bu.edu,Ajay Juarez,2815085919,18,Male,Biomedical Engineering,6,3,"Leg press, leg extensions, leg curls, seated calf raise",2-3,No,Weight Lifting 
+Control,2/27/2024 12:48:00,djtong@bu.edu,Daniel Tong,5714579130,18,Male,Business,7,3,Back bi,6-7,Yes,Weight Lifting 
+Treatment,2/27/2024 13:48:38,patel020504@gmail.com,Harsh ,2016734646,20,Male,Economics ,8,4,Back and biceps with basketball ,4-5,No,Weight Lifting 
+Control,2/27/2024 13:52:42,jfl20@bu.edu,Jon Lavalley,5083613430,33,Male,Graphic Design,7,3,Lower Body,4-5,No,Weight Lifting 
+Treatment,2/27/2024 13:52:55,manasv20@bu.edu,Manas Verma,8573701478,23,Male,Applied Business Analytics ,8,4,Strength Training (Pull Day),6-7,Yes,Weight Lifting 
+Control,2/27/2024 14:13:20,alexliiu@bu.edu,Alex Liu,6179097687,18,Male,Questrom,8,3,Chest/Arms,6-7,No,Weight Lifting 
+Control,2/27/2024 14:26:22,kylemcm@bu.edu,Kyle McMullin,5083641214,22,Male,Business and Hospitality ,8,4,Chest/Tri and finished with basketball ,2-3,Yes,"Cardio, Weight Lifting "
+Treatment,2/27/2024 16:19:05,ajheintz@bu.edu,Amaury ,3512292225,24,Male,International Affairs,5,4,Curls,6-7,No,Weight Lifting 
+Control,2/27/2024 16:59:47,ebakhnov@bu.edu,Liz Bakhnov,7813925223,21,Female,Biology,7,3,"sprint interval training, weightlifting ",6-7,Yes,"Cardio, Weight Lifting "
+Treatment ,2/27/2024 19:53:38,mtaybah@bu.edu,Mustafa Taibah,8573769940,21,Male,Computer Science,6,3,Volleyball training,4-5,No,Other Sports
+Treatment ,2/27/2024 19:56:34,szou00@bu.edu,sharon,6464963227,21,Female,computer science,8,4,leg exercises,2-3,No,Weight Lifting 
+Treatment ,2/27/2024 19:58:00,dimitrih@bu.edu,Dimitri Hrabovskyy,9145067928,19,Male,Biology,8,4,Weight lifting ,6-7,Yes,Weight Lifting 
+Control,2/27/2024 19:58:41,trieut@bu.edu,Trieu Tran,9164792767,20,Male,Computer Engineering,8,4,Volleyball,4-5,No,Other Sports
+Control,2/27/2024 20:21:08,pard3sh@bu.edu,Pardesh,9737238527,19,Male,CS,6,3,Weight lifing and cardio,6-7,No,"Cardio, Weight Lifting "
+Control,2/28/2024 13:55:59,cdinkler@bu.edu,Cayden,9592480652,18,Male,Mech Engineering,7,3,Leg Day ,6-7,No,Weight Lifting 
+Treatment,2/29/2024 11:10:10,Raiymbek@bu.edu,Raiymbek,8572225418,24,Male,MSBA,5,4,Swimming ,2-3,No,Other Sports
+Control,2/29/2024 11:15:13,aryann@bu.edu,Aryan Kumar,8574689573,24,Male,Business Analytics,9,5,Weight workout + Cardio,4-5,No,"Cardio, Weight Lifting "
+Treatment,2/29/2024 11:17:00,ananya5@bu.edu,Ananya Anand ,9788936294,23,Female,Business analytics ,9,5,Yoga ,2-3,No,Misc Exercise
+Treatment,2/29/2024 12:06:25,sasrit@bu.edu,Srithijaa Sankepally ,7337358958,23,Female,MSBA,10,4,Weights,2-3,No,Weight Lifting 
+Treatment,2/29/2024 14:12:02,shayanhk@bu.edu,Shayan Hasan,6173886711,24,Male,Business Analytics,8,4,Chest exercises ,4-5,No,Weight Lifting 
+Treatment,2/29/2024 14:45:10,jmonte12@bu.edu,Jack Montalvo,6316720567,20,Male,Health Science,7,4,Full body workout,4-5,No,Weight Lifting 
+Treatment,2/29/2024 15:12:01,jishnu.nmoorthy@gmail.com,Jishnu Moorthy,4132752191,23,Male,Business Analytics ,7,5,"Chest , triceps",4-5,No,Weight Lifting 
+Control,2/29/2024 15:19:39,Tzhao98@bu.edu,Thomas Zhao,4017440720,20,Male,Psychology,8,4,Strength and cardio,4-5,Yes,"Cardio, Weight Lifting "
+Control,2/29/2024 16:38:26,bkhalil@bu.edu,Bashir Khalil,8167268552,20,Male,Biomedical engineering ,7,4,Ran and lifted ,6-7,No,"Cardio, Weight Lifting "
+Treatment,2/29/2024 16:56:18,mczaplin@bu.edu,Marcin ,2245875982,21,Male,Bsns,8,3,Soccer!,6-7,No,Other Sports
+Treatment,2/29/2024 17:05:26,cjnunn@bu.edu,Christopher Nunn,5084940105,19,Male,Finance + Law,7,4,Back+Biceps,4-5,No,Weight Lifting 
+Control,2/29/2024 18:29:13,renzoq@bu.edu,Renzo Quintero,9732348821,21,Male,Biology,7,3,Chest and Arm exercises ,2-3,No,Weight Lifting 
+Control,2/29/2024 19:33:51,jmsuh@bu.edu,Jake Suh,2404417116,21,Male,Business,8,3,Weightlifting exercises targeting back and biceps.,2-3,No,Weight Lifting 
+Control,3/1/2024 9:24:23,kmurai01@bu.edu,Kaishu Murai,202497384,22,Male,FTV,8,4,I pushed stuff,6-7,No,Weight Lifting 
+Control,3/1/2024 15:50:51,ajboaz@bu.edu,Allison Boaz,8582543159,22,Female,M.S. Mechanical Engineering,6,3,"Cardio, arm workouts",4-5,No,"Cardio, Weight Lifting "
+Treatment,3/1/2024 15:52:49,sydpecor@bu.edu,Sydney Pecoraro,2089951627,20,Female,Health Science,7,3,cardio ,2-3,Yes,Cardio
+Control,3/1/2024 15:59:41,averye@bu.edu,Elizabeth Avery,5103840545,22,Female,Masters of Public Health,3,3,cardio,6-7,No,Cardio
+Treatment,3/1/2024 16:02:58,tywil@bu.edu,Tyesha Williams ,9104429768,20,Female,Political Science ,7,4,Cardio ,2-3,Yes,Cardio 
+Treatment,3/1/2024 16:04:14,rpkelly@bu.edu,Raegan,2072199266,22,Female,Hospitality Administration ,9,4,Cardio,4-5,No,Cardio
+Control,3/1/2024 16:05:14,kpryor@bu.edu,Kate Pryor,6125848064,22,Female,Health Science,5,3,cardio,4-5,No,Cardio
+Treatment,3/1/2024 16:12:30,ametz@bu.edu,Aimee Metz,5622493307,19,Female,Health Science ,8,4,Cardio ,2-3,Yes,Cardio 
+Control,3/1/2024 16:14:38,naivasop@bu.edu,Sophie Naivar,2815083342,18,Female,Child Development and Education ,8,3,Cardio ,2-3,No,Cardio 
+Treatment,3/1/2024 16:17:12,kapalit@bu.edu,Kyomi Apalit,9257232931,18,Female,Public Relations,9,5,Soeed/agility ,2-3,Yes,Cardio 
+Control,3/1/2024 16:17:37,odelong@bu.edu,Olivia DeLong ,9789041760,20,Female,Hospitality/ business ,5,3,Cardio ,2-3,Yes,Cardio 
+Treatment,3/1/2024 16:31:45,haleyg04@bu.edu,Haley Ganino,6267317024,19,Female,Biology ,7,4,Cardio,2-3,No,Cardio
+Control,3/1/2024 21:25:09,kricard@bu.edu,Kasey ricard,9785016671,19,Female,Health science ,6,3,Cardio,6-7,No,Cardio
+Control,3/1/2024 21:25:11,lkeleher@bu.edu,Lauren,7817380497,22,Female,Health science ,8,3,Run ,6-7,No,Cardio
+Control,3/1/2024 21:25:27,bsd@bu.edu,Brooke Deppiesse,6504656116,19,Female,Business Administration ,7,3,Cardio,6-7,Yes,Cardio
+Treatment,3/1/2024 21:27:19,liviabc@bu.edu,Livia Christopher ,2247754209,18,Female,Undeclared ,8,4,Cardio,2-3,No,Cardio
+Treatment,3/1/2024 22:53:48,caitco@bu.edu,Caitlin Coker,4844599041,22,Female,Biology,7,3,Abs ,2-3,Yes,Misc Exercise
+Treatment,3/2/2024 9:13:13,kroncin@bu.edu,Kayla Roncin ,7323304019,22,Female,Health science ,8,4,Lower body lift,4-5,Yes,Weight Lifting 
+Control,3/2/2024 17:02:43,lolonett@bu.edu,Lauren,6194157300,21,Female,Environmental Science,6,4,Running ,2-3,No,Cardio
